@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="com.mycompany.app.SqrtTest" time="0.044" tests="10" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.1" name="com.mycompany.app.SqrtTest" time="0.043" tests="10" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.26.4-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\ivank\AppData\Local\Temp\surefire4960665736170055508\surefirebooter-20250427202147267_3.jar C:\Users\ivank\AppData\Local\Temp\surefire4960665736170055508 2025-04-27T20-21-47_106-jvmRun1 surefire-20250427202147267_1tmp surefire_0-20250427202147267_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\ivank\AppData\Local\Temp\surefire14406695574557737175\surefirebooter-20250427203735253_3.jar C:\Users\ivank\AppData\Local\Temp\surefire14406695574557737175 2025-04-27T20-37-35_093-jvmRun1 surefire-20250427203735253_1tmp surefire_0-20250427203735253_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\ivank\Desktop\testing\ST-5\my-app\target\test-classes;C:\Users\ivank\Desktop\testing\ST-5\my-app\target\classes;C:\Users\ivank\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\ivank\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\ivank\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\ivank\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\ivank\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0\junit-jupiter-params-5.11.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\ivank\AppData\Local\Temp\surefire4960665736170055508\surefirebooter-20250427202147267_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\ivank\AppData\Local\Temp\surefire14406695574557737175\surefirebooter-20250427203735253_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.26+4"/>
@@ -53,7 +53,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.26.4-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-11.0.26.4-hotspot\bin;C:\texlive\2024\bin\windows;C:\Program Files\Microsoft MPI\Bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;E:\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\CMake\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\MiKTeX\miktex\bin\x64\;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.9\bin;C:\Program Files\Eclipse Adoptium\jdk-11.0.26.4-hotspot\bin;C:\Users\ivank\AppData\Local\Programs\Python\Launcher\;C:\Users\ivank\AppData\Local\Microsoft\WindowsApps;C:\Users\ivank\.dotnet\tools;C:\Users\ivank\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ivank\AppData\Roaming\npm;C:\Users\ivank\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1\bin;;."/>
+    <property name="java.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-11.0.26.4-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\ivank\bin;E:\Git\mingw64\bin;E:\Git\usr\local\bin;E:\Git\usr\bin;E:\Git\usr\bin;E:\Git\mingw64\bin;E:\Git\usr\bin;C:\Users\ivank\bin;C:\Program Files\Eclipse Adoptium\jdk-11.0.26.4-hotspot\bin;C:\texlive\2024\bin\windows;C:\Program Files\Microsoft MPI\Bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;E:\Git\cmd;C:\Program Files\dotnet;C:\Program Files\CMake\bin;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\MiKTeX\miktex\bin\x64;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.9\bin;C:\Program Files\Eclipse Adoptium\jdk-11.0.26.4-hotspot\bin;C:\Users\ivank\AppData\Local\Programs\Python\Launcher;C:\Users\ivank\AppData\Local\Microsoft\WindowsApps;C:\Users\ivank\.dotnet\tools;C:\Users\ivank\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\ivank\AppData\Roaming\npm;C:\Users\ivank\AppData\Local\Programs\MiKTeX\miktex\bin\x64;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1\bin;E:\Git\usr\bin\vendor_perl;E:\Git\usr\bin\core_perl;."/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Eclipse Adoptium"/>
     <property name="java.vm.version" value="11.0.26+4"/>
@@ -61,12 +61,12 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testGoodMethodWhenNotGood" classname="com.mycompany.app.SqrtTest" time="0.019"/>
+  <testcase name="testGoodMethodWhenNotGood" classname="com.mycompany.app.SqrtTest" time="0.017"/>
   <testcase name="testSmallNumber" classname="com.mycompany.app.SqrtTest" time="0.002"/>
   <testcase name="testOne" classname="com.mycompany.app.SqrtTest" time="0.001"/>
   <testcase name="testPerfectSquare" classname="com.mycompany.app.SqrtTest" time="0.0"/>
-  <testcase name="testZero" classname="com.mycompany.app.SqrtTest" time="0.0"/>
-  <testcase name="testGoodMethodWhenGood" classname="com.mycompany.app.SqrtTest" time="0.0"/>
+  <testcase name="testZero" classname="com.mycompany.app.SqrtTest" time="0.001"/>
+  <testcase name="testGoodMethodWhenGood" classname="com.mycompany.app.SqrtTest" time="0.001"/>
   <testcase name="testImproveMethod" classname="com.mycompany.app.SqrtTest" time="0.0"/>
   <testcase name="testNonPerfectSquare" classname="com.mycompany.app.SqrtTest" time="0.0"/>
   <testcase name="testAverageMethod" classname="com.mycompany.app.SqrtTest" time="0.0"/>
